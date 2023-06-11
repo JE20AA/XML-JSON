@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+ <root>
+     <Datos_Docentes>
+         <Docente_lista>
+             <nombre_titulo>Patricia Quiroz</nombre_titulo>
+             <datos_lista>Cédula = 1317233111</datos_lista>
+             <datos_lista>Nombres = Patricia Alexandra </datos_lista>
+             <datos_lista>Apellidos = Quiroz Palma </datos_lista>
+             <datos_lista>Correo = patricia.quiroz@uleam.edu.ec</datos_lista>
+             <datos_lista>Facultad = Ciencias de la Vida y Tecnologías</datos_lista>
+             <datos_lista>Carrera = Tecnología de la Información</datos_lista>
+             <datos_lista>Asignatura = Aplicaciones Web I</datos_lista>
+             <datos_lista>Curso = Quinto</datos_lista>
+             <datos_lista>Paralelo = A y B</datos_lista>
+         </Docente_lista>
+         <Docente_lista>
+             <nombre_titulo>Robert Moreira</nombre_titulo>
+             <datos_lista>Cédula = 1323453423</datos_lista>
+             <datos_lista>Nombres = Robert Wilfrido</datos_lista>
+             <datos_lista>Apellidos = Moreira Centeno </datos_lista>
+             <datos_lista>Correo = robert.moreira@uleam.edu.ec</datos_lista>
+             <datos_lista>Facultad = Ciencias de la Vida y Tecnologías</datos_lista>
+             <datos_lista>Carrera = Tecnología de la Información</datos_lista>
+             <datos_lista>Asignatura = Gestión de Base de Datos</datos_lista>
+             <datos_lista>Curso = Quinto</datos_lista>
+             <datos_lista>Paralelos = A y B</datos_lista>
+         </Docente_lista>
+         <Docente_lista>
+             <nombre_titulo>Willian Delgado</nombre_titulo>
+             <datos_lista>Cédula = 1234237890</datos_lista>
+             <datos_lista>Nombres = Willian</datos_lista>
+             <datos_lista>Apellidos = Delgado Muentes </datos_lista>
+             <datos_lista>Correo = willian.delgado@uleam.edu.ec</datos_lista>
+             <datos_lista>Facultad = Ciencias de la Vida y Tecnologías</datos_lista>
+             <datos_lista>Carrera = Tecnología de la Información</datos_lista>
+             <datos_lista>Asignatura = Ingeniería de software I</datos_lista>
+             <datos_lista>Curso = Quinto </datos_lista>
+             <datos_lista>Paralelos = A y B</datos_lista>
+         </Docente_lista>
+         <Docente_lista>
+             <nombre_titulo>Henry Mero</nombre_titulo>
+             <datos_lista>Cédula = 1323453423</datos_lista>
+             <datos_lista>Nombres = Henry Neurio</datos_lista>
+             <datos_lista>Apellidos = Mero Briones </datos_lista>
+             <datos_lista>Correo = henry.mero@uleam.edu.ec</datos_lista>
+             <datos_lista>Facultad = Ciencias de la Vida y Tecnologías</datos_lista>
+             <datos_lista>Carrera = Tecnología de la Información</datos_lista>
+             <datos_lista>Asignatura = Modelamiento y Simulación</datos_lista>
+             <datos_lista>Curso = Sexto</datos_lista>
+             <datos_lista>Paralelos = A y B</datos_lista>
+         </Docente_lista>
+         <Docente_lista>
+             <nombre_titulo>Jonny Peréz</nombre_titulo>
+             <datos_lista>Cédula = 1315342367</datos_lista>
+             <datos_lista>Nombres = Jonny Vicente </datos_lista>
+             <datos_lista>Apellidos = Peréz Veliz </datos_lista>
+             <datos_lista>Correo = jonny.perezzv@uleam.edu.ec</datos_lista>
+             <datos_lista>Facultad = Ciencias de la Vida y Tecnologías</datos_lista>
+             <datos_lista>Carrera = Tecnología de la Información</datos_lista>
+             <datos_lista>Asignatura = Ingeniería de software II</datos_lista>
+             <datos_lista>Curso = Sexto</datos_lista>
+             <datos_lista>Paralelos = A y B</datos_lista>
+         </Docente_lista>
+         <Docente_lista>
+             <nombre_titulo>Byron Alcívar</nombre_titulo>
+             <datos_lista>Cédula = 1313567845</datos_lista>
+             <datos_lista>Nombres = Byron Rolando </datos_lista>
+             <datos_lista>Apellidos = Alcívar Vaca</datos_lista>
+             <datos_lista>Correo = byron.alcivar@uleam.edu.ec</datos_lista>
+             <datos_lista>Facultad = Ciencias de la Vida y Tecnologías</datos_lista>
+             <datos_lista>Carrera = Agropecuaría</datos_lista>
+             <datos_lista>Asignatura = Sanidad Vegetal</datos_lista>
+             <datos_lista>Curso = Tercero</datos_lista>
+             <datos_lista>Paralelos = A y B</datos_lista>
+         </Docente_lista>
+         <Docente_lista>
+             <nombre_titulo>Elizalde Cárdenas</nombre_titulo>
+             <datos_lista>Cédula = 1512345656</datos_lista>
+             <datos_lista>Nombres = Elizalde Exequiel </datos_lista>
+             <datos_lista>Apellidos = Cárdenas Reyes </datos_lista>
+             <datos_lista>Correo = elizalde.cardenas@uleam.edu.ec</datos_lista>
+             <datos_lista>Facultad = Ciencias de la Vida y Tecnologías</datos_lista>
+             <datos_lista>Carrera =  Agropecuaría</datos_lista>
+             <datos_lista>Asignatura = Topografía</datos_lista>
+             <datos_lista>Curso = Tercero</datos_lista>
+             <datos_lista>Paralelos = A y B</datos_lista>
+         </Docente_lista>
+         <Docente_lista>
+             <nombre_titulo>Jimmy Cevallos</nombre_titulo>
+             <datos_lista>Cédula = 1345237856</datos_lista>
+             <datos_lista>Nombre = Jimmy Javier</datos_lista>
+             <datos_lista>Apellidos = Cevallos Zambrano </datos_lista>
+             <datos_lista>Correo = jimmy.cevallos@uleam.edu.ec</datos_lista>
+             <datos_lista>Facultad = Ciencias de la Vida y Tecnologías</datos_lista>
+             <datos_lista>Carrera=  Agropecuaría</datos_lista>
+             <datos_lista>Asignatura = Matemática</datos_lista>
+             <datos_lista>Curso = Primero</datos_lista>
+             <datos_lista>Paralelos = A y B</datos_lista>
+         </Docente_lista>
+         <Docente_lista>
+             <nombre_titulo>María Muñoz</nombre_titulo>
+             <datos_lista>Cédula = 1345237856</datos_lista>
+             <datos_lista>Nombres = María Belén</datos_lista>
+             <datos_lista>Apellidos = Muñoz Menéndez</datos_lista>
+             <datos_lista>Correo = maria.muñoz@uleam.edu.ec</datos_lista>
+             <datos_lista>Facultad = Ciencias de la Vida y Tecnologías</datos_lista>
+             <datos_lista>Carrera = Agropecuaría</datos_lista>
+             <datos_lista>Asignatura =  Quimica Orgánica </datos_lista>
+             <datos_lista>Curso = Segundo</datos_lista>
+             <datos_lista>Paralelos = A y B</datos_lista>
+         </Docente_lista>
+         <Docente_lista>
+             <nombre_titulo>Ramón Molina</nombre_titulo>
+             <datos_lista>Cédula = 1345009956</datos_lista>
+             <datos_lista>Nombres =Ramón Antonio </datos_lista>
+             <datos_lista>Apellidos = Molina Basurto </datos_lista>
+             <datos_lista>Correo = ramon.molina@uleam.edu.ec</datos_lista>
+             <datos_lista>Facultad = Ciencias de la Vida y Tecnologías</datos_lista>
+             <datos_lista>Carrera = Agropecuaría</datos_lista>
+             <datos_lista>Asignatura = Ciencias del Suelo </datos_lista>
+             <datos_lista>Curso = Tercero</datos_lista>
+             <datos_lista>Paralelos = A y B</datos_lista>
+         </Docente_lista>
+         <Docente_lista>
+             <nombre_titulo>Wendy Gómez</nombre_titulo>
+             <datos_lista>Cédula = 1345009956</datos_lista>
+             <datos_lista>Nombres = Wendy Magdalena </datos_lista>
+             <datos_lista>Apellidos = Gómez Zamora </datos_lista>
+             <datos_lista>Correo = wendy.gomez@uleam.edu.ec</datos_lista>
+             <datos_lista>Facultad = Ciencias de la Vida y Tecnologías</datos_lista>
+             <datos_lista>Carrera = Biología</datos_lista>
+             <datos_lista>Asignatura = Bioquímica</datos_lista>
+             <datos_lista>Curso = Cuarto</datos_lista>
+             <datos_lista>Paralelos = A y B</datos_lista>
+         </Docente_lista>
+         <Docente_lista>
+             <nombre_titulo>Juan Napa</nombre_titulo>
+             <datos_lista>Cédula = 1345009956</datos_lista>
+             <datos_lista>Nombres = Juan Pablo</datos_lista>
+             <datos_lista>Apellidos = Napa España </datos_lista>
+             <datos_lista>Correo = juan.napa@uleam.edu.ec</datos_lista>
+             <datos_lista>Facultad = Ciencias de la Vida y Tecnologías</datos_lista>
+             <datos_lista>Carrera = Biología</datos_lista>
+             <datos_lista>Asignatura = Biología Molecular </datos_lista>
+             <datos_lista>Curso = Octavo</datos_lista>
+             <datos_lista>Paralelos = A y B</datos_lista>
+         </Docente_lista>
+         <Docente_lista>
+             <nombre_titulo>Carlos Almeida</nombre_titulo>
+             <datos_lista>Cédula = 1345009956</datos_lista>
+             <datos_lista>Nombres = Carlos Aníbal</datos_lista>
+             <datos_lista>Apellidos = Almeida Cruz </datos_lista>
+             <datos_lista>Correo = carlos.almeida@uleam.edu.ec</datos_lista>
+             <datos_lista>Facultad = Ciencias de la salud</datos_lista>
+             <datos_lista>Carrera = Medicina</datos_lista>
+             <datos_lista>Asignatura = Bioquímica</datos_lista>
+             <datos_lista>Curso = Segundo</datos_lista>
+             <datos_lista>Paralelos = A y B</datos_lista>
+         </Docente_lista>
+         <Docente_lista>
+             <nombre_titulo>María Cedeño</nombre_titulo>
+             <datos_lista>Cédula = 1345009956</datos_lista>
+             <datos_lista>Nombres = María Annabell</datos_lista>
+             <datos_lista>Apellidos = Cedeño Ugalde </datos_lista>
+             <datos_lista>Correo = maria.cedeño@uleam.edu.ec</datos_lista>
+             <datos_lista>Facultad = Ciencias de la salud</datos_lista>
+             <datos_lista>Carrera = Medicina</datos_lista>
+             <datos_lista>Asignatura = Farmacología Básica </datos_lista>
+             <datos_lista>Curso = Quinto</datos_lista>
+             <datos_lista>Paralelos = A y B</datos_lista>
+         </Docente_lista>
+         <Docente_lista>
+             <nombre_titulo>Vanessa Cedeño</nombre_titulo>
+             <datos_lista>Cédula = 1345009956</datos_lista>
+             <datos_lista>Nombres = Vanessa Monserrate</datos_lista>
+             <datos_lista>Apellidos = Cedeño Zavalu </datos_lista>
+             <datos_lista>Correo = vanessa.cedeño@uleam.edu.ec</datos_lista>
+             <datos_lista>Facultad = Ciencias de la salud</datos_lista>
+             <datos_lista>Carrera = Medicina</datos_lista>
+             <datos_lista>Asignatura = Medicina Legal</datos_lista>
+             <datos_lista>Curso = Octavo</datos_lista>
+             <datos_lista>Paralelos = A y B</datos_lista>
+         </Docente_lista>
+         <Docente_lista>
+             <nombre_titulo>Beatriz Alcívar</nombre_titulo>
+             <datos_lista>Cédula = 1345741239</datos_lista>
+             <datos_lista>Nombres = Beatriz Isabel </datos_lista>
+             <datos_lista>Apellidos = Alcívar Cedeño</datos_lista>
+             <datos_lista>Correo = beatriz.alcivar@uleam.edu.ec</datos_lista>
+             <datos_lista>Facultad = Ciencias Administrativas, Contables y Comercio</datos_lista>
+             <datos_lista>Carrera = Finanzas</datos_lista>
+             <datos_lista>Asignatura = Contabilidad Financiera </datos_lista>
+             <datos_lista>Curso = Cuarto</datos_lista>
+             <datos_lista>Paralelos = A y B</datos_lista>
+         </Docente_lista>
+         <Docente_lista>
+             <nombre_titulo>Walter Bailón</nombre_titulo>
+             <datos_lista>Cédula = 1303218453</datos_lista>
+             <datos_lista>Nombres = Walter Alberto</datos_lista>
+             <datos_lista>Apellidos = Bailón Lourido</datos_lista>
+             <datos_lista>Correo = walter.bailon@uleam.edu.ec</datos_lista>
+             <datos_lista>Facultad = Ciencias Administrativas, Contables y Comercio</datos_lista>
+             <datos_lista>Carrera = Contabilidad y Auditoria</datos_lista>
+             <datos_lista>Asignatura = Contabilidad de Costos </datos_lista>
+             <datos_lista>Curso = Quinto</datos_lista>
+             <datos_lista>Paralelos = A y B</datos_lista>
+         </Docente_lista>
+         <Docente_lista>
+             <nombre_titulo>Paola Castillo</nombre_titulo>
+             <datos_lista>Cédula = 1324759103</datos_lista>
+             <datos_lista>Nombres = Paola Germania</datos_lista>
+             <datos_lista>Apellidos = Castillo García</datos_lista>
+             <datos_lista>Correo = paola.castillo@uleam.edu.ec</datos_lista>
+             <datos_lista>Facultad = Ciencias Administrativas, Contables y Comercio</datos_lista>
+             <datos_lista>Carrera = Contabilidad y Auditoria</datos_lista>
+             <datos_lista>Asignatura = Auditoría Forense </datos_lista>
+             <datos_lista>Curso = Octavo</datos_lista>
+             <datos_lista>Paralelos = A y B</datos_lista>
+         </Docente_lista>
+         <Docente_lista>
+             <nombre_titulo>José Barcia</nombre_titulo>
+             <datos_lista>Cédula = 1345009956</datos_lista>
+             <datos_lista>Nombres = José Javier </datos_lista>
+             <datos_lista>Apellidos = Barcia Menéndez </datos_lista>
+             <datos_lista>Correo = jose.barcia@uleam.edu.ec</datos_lista>
+             <datos_lista>Facultad = Educación, Turissmo, Artes y Humanidades</datos_lista>
+             <datos_lista>Carrera = Educación Inicial</datos_lista>
+             <datos_lista>Asignatura = Análisis Detallado de Modelos Educativos y el aprendizaje </datos_lista>
+             <datos_lista>Curso = Segundo</datos_lista>
+             <datos_lista>Paralelos = A y B</datos_lista>
+         </Docente_lista>
+         <Docente_lista>
+             <nombre_titulo>Elisabeth Boyes</nombre_titulo>
+             <datos_lista>Cédula = 1345009956</datos_lista>
+             <datos_lista>Nombres =Elisabeth Susan </datos_lista>
+             <datos_lista>Apellidos = Boyes Fuller</datos_lista>
+             <datos_lista>Correo = elisabeth.boyes@uleam.edu.ec</datos_lista>
+             <datos_lista>Facultad = Educación, Turissmo, Artes y Humanidades</datos_lista>
+             <datos_lista>Carrera = Educación Inicial</datos_lista>
+             <datos_lista>Asignatura = Literatura Infantil </datos_lista>
+             <datos_lista>Curso = Sexto</datos_lista>
+             <datos_lista>Paralelos = A y B</datos_lista>
+         </Docente_lista>
+         <Docente_lista>
+             <nombre_titulo>Rosa Macías</nombre_titulo>
+             <datos_lista>Cédula = 1345009956</datos_lista>
+             <datos_lista>Nombres = Rosa Lucia </datos_lista>
+             <datos_lista>Apellidos = Macías Acosta </datos_lista>
+             <datos_lista>Correo = rosa.macias@uleam.edu.ec</datos_lista>
+             <datos_lista>Facultad = Educación, Turissmo, Artes y Humanidades</datos_lista>
+             <datos_lista>Carrera = Educación Inicial</datos_lista>
+             <datos_lista>Asignatura = Gestión de Calidad Educativa </datos_lista>
+             <datos_lista>Curso = Noveno</datos_lista>
+             <datos_lista>Paralelos = A y B</datos_lista>
+         </Docente_lista>
+         <Docente_lista>
+             <nombre_titulo>Veronica Avila</nombre_titulo>
+             <datos_lista>Cédula = 1345009956</datos_lista>
+             <datos_lista>Nombres = Veronica </datos_lista>
+             <datos_lista>Apellidos = Avila Ayón</datos_lista>
+             <datos_lista>Correo = veronica.avila@uleam.edu.ec</datos_lista>
+             <datos_lista>Facultad = Ingeniería, Industria y Construcción</datos_lista>
+             <datos_lista>Carrera = Ingeniería Civil</datos_lista>
+             <datos_lista>Asignatura = Hidraúlica </datos_lista>
+             <datos_lista>Curso = Cuarto</datos_lista>
+             <datos_lista>Paralelos = A y B</datos_lista>
+         </Docente_lista>
+         <Docente_lista>
+             <nombre_titulo>Javier Baque</nombre_titulo>
+             <datos_lista>Cédula = 1345009956</datos_lista>
+             <datos_lista>Nombres = Javier Enrique </datos_lista>
+             <datos_lista>Apellidos = Baque Solis </datos_lista>
+             <datos_lista>Correo = javier.baque@luleam.edu.ec</datos_lista>
+             <datos_lista>Facultad = Ingeniería, Industria y Construcción</datos_lista>
+             <datos_lista>Carrera = Ingeniería Civil</datos_lista>
+             <datos_lista>Asignatura = Ecuaciones Diferenciales </datos_lista>
+             <datos_lista>Curso = Tercero</datos_lista>
+             <datos_lista>Paralelos = A y B</datos_lista>
+         </Docente_lista>
+         <Docente_lista>
+             <nombre_titulo>Carlos Delgado</nombre_titulo>
+             <datos_lista>Cédula = 1345009956</datos_lista>
+             <datos_lista>Nombres = Carlos Geovanny</datos_lista>
+             <datos_lista>Apellidos = Delgado Castro </datos_lista>
+             <datos_lista>Correo = carlos.delgado@uleam.edu.ec</datos_lista>
+             <datos_lista>Facultad = Ingeniería, Industria y Construcción</datos_lista>
+             <datos_lista>Carrera = Ingeniería Civil</datos_lista>
+             <datos_lista>Asignatura = Puertos </datos_lista>
+             <datos_lista>Curso = Noveno</datos_lista>
+             <datos_lista>Paralelos = A y B</datos_lista>
+         </Docente_lista>
+         <Docente_lista>
+             <nombre_titulo>Lenin Arroyo</nombre_titulo>
+             <datos_lista>Cédula = 1345009956</datos_lista>
+             <datos_lista>Nombres = Lenin Teobaldo </datos_lista>
+             <datos_lista>Apellidos = Arroyo Baltán </datos_lista>
+             <datos_lista>Correo = lenin.arroyo@uleam.edu.ec</datos_lista>
+             <datos_lista>Facultad =  Ciencias Sociales, Derecho y Bienestar</datos_lista>
+             <datos_lista>Carrera = Derecho</datos_lista>
+             <datos_lista>Asignatura = Lógica Jurídica</datos_lista>
+             <datos_lista>Curso = Octavo</datos_lista>
+             <datos_lista>Paralelos = A y B</datos_lista>
+         </Docente_lista>
+         <Docente_lista>
+             <nombre_titulo>Angela Aldaz</nombre_titulo>
+             <datos_lista>Cédula = 1345009956</datos_lista>
+             <datos_lista>Nombres = Angela Romelia</datos_lista>
+             <datos_lista>Apellidos = Aldaz Quiroz</datos_lista>
+             <datos_lista>Correo = angela.aldaz@uleam.edu.ec</datos_lista>
+             <datos_lista>Facultad = Ciencias Sociales, Derecho y Bienestar</datos_lista>
+             <datos_lista>Carrera = Derecho</datos_lista>
+             <datos_lista>Asignatura = Derecho Informático</datos_lista>
+             <datos_lista>Curso = Cuarto</datos_lista>
+             <datos_lista>Paralelos = A y B</datos_lista>
+         </Docente_lista>
+         <Docente_lista>
+             <nombre_titulo>Mayra Bravo</nombre_titulo>
+             <datos_lista>Cédula = 1345009956</datos_lista>
+             <datos_lista>Nombres = Mayra Roxana</datos_lista>
+             <datos_lista>Apellidos = Bravo Zambrano </datos_lista>
+             <datos_lista>Correo = mayra.bravo@uleam.edu.ec</datos_lista>
+             <datos_lista>Facultad =  Ciencias Sociales, Derecho y Bienestar</datos_lista>
+             <datos_lista>Carrera = Derecho</datos_lista>
+             <datos_lista>Asignatura = Derecho Civil: Obligaciones y Contrato </datos_lista>
+             <datos_lista>Curso = Sexto</datos_lista>
+             <datos_lista>Paralelos = A y B</datos_lista>
+         </Docente_lista>
+         <Docente_lista>
+             <nombre_titulo>Ricardo Bravo</nombre_titulo>
+             <datos_lista>Cédula = 1345009956</datos_lista>
+             <datos_lista>Nombres = Ricardo Eduardo </datos_lista>
+             <datos_lista>Apellidos = Bravo Zambrano </datos_lista>
+             <datos_lista>Correo = ricardo.bravo@uleam.edu.ec</datos_lista>
+             <datos_lista>Facultad = Ciencias de la salud</datos_lista>
+             <datos_lista>Carrera = Fonoaudiología</datos_lista>
+             <datos_lista>Asignatura = Neurociencias </datos_lista>
+             <datos_lista>Curso = Tercero</datos_lista>
+             <datos_lista>Paralelos = A y B</datos_lista>
+         </Docente_lista>
+         <Docente_lista>
+             <nombre_titulo>Diana Bravo</nombre_titulo>
+             <datos_lista>Cédula = 1345009956</datos_lista>
+             <datos_lista>Nombres = Diana Maribel</datos_lista>
+             <datos_lista>Apellidos = Bravo Saquicela </datos_lista>
+             <datos_lista>Correo = diana.bravo@uleam.edu.ec</datos_lista>
+             <datos_lista>Facultad = Ciencias de la salud</datos_lista>
+             <datos_lista>Carrera = Fonoaudiología</datos_lista>
+             <datos_lista>Asignatura = Eufonía </datos_lista>
+             <datos_lista>Curso = Quinto</datos_lista>
+             <datos_lista>Paralelos = A y B</datos_lista>
+         </Docente_lista>
+         <Docente_lista>
+             <nombre_titulo>Majiory Ibarra</nombre_titulo>
+             <datos_lista>Cédula = 1345009956</datos_lista>
+             <datos_lista>Nombres = Majiory Esmeralda</datos_lista>
+             <datos_lista>Apellidos = Ibarra García </datos_lista>
+             <datos_lista>Correo = majiory.ibarra@uleam.edu.ec</datos_lista>
+             <datos_lista>Facultad = Ciencias de la salud</datos_lista>
+             <datos_lista>Carrera = Fonoaudiología</datos_lista>
+             <datos_lista>Asignatura = Integración Sensorial </datos_lista>
+             <datos_lista>Curso = Septimo</datos_lista>
+             <datos_lista>Paralelos = A</datos_lista>
+         </Docente_lista>
+     </Datos_Docentes>
+ </root>
